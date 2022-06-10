@@ -7,3 +7,5 @@ This project contains the BLE specification for the Myo armband, in the form of 
 **Warning** - This specification contains several new features not contained in the Myo SDKs. However, it also omits 
 features that may permanently change the Myo in a not easily-reversible fashion. Please exercise caution when 
 using BLE services directly.
+
+Source: https://developerblog.myo.com/myo-bluetooth-spec-released/
